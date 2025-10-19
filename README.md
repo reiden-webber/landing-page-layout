@@ -6,3 +6,8 @@ This repository contains my solution for The Odin Project’s Landing Page assig
 - **Flexbox layouts:** Practiced for aligning elements and creating responsive feeling (though full responsiveness is not required for this project).
 - **Custom content:** You can substitute your own text or images, personalize the design, and choose your colors and fonts to showcase creativity.
 - **Best practices:** Frequent commits, meaningful commit messages, and code organized in one CSS file.
+
+## Based on the original template
+<div style="text-align: center;">
+  <img src="./img/layout.png" alt="Landing Page Layout" style="max-width: 500px;">
+</div>
